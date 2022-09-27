@@ -8,7 +8,7 @@ window.addEventListener('scroll', ()=>{
   const delta = startPos - top
 
   startPos = top
-
+  
   items.forEach((item, i)=>{
     itemValues.push((i * zIndent) + zIndent)
     itemValues[i] += delta * -3
