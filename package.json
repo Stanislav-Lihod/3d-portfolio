@@ -1,0 +1,26 @@
+{
+  "name": "3d-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "webpack": "^5.74.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stanislav-Lihod/3d-portfolio.git"
+  },
+  "keywords": [
+    "3d"
+  ],
+  "author": "Stanislau Lihodievski stanislaw.lih@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stanislav-Lihod/3d-portfolio/issues"
+  },
+  "homepage": "https://github.com/Stanislav-Lihod/3d-portfolio#readme"
+}
