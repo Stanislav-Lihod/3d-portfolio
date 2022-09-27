@@ -18,7 +18,7 @@ window.addEventListener('scroll', ()=>{
 
     item.style.transform = `translateZ(${itemValues[i]}px)`  
     item.style.opacity = itemValues[i] < Math.abs(zIndent) / 3 ? 1 : 0
-    item.style.display = itemValues[i] < Math.abs(zIndent) * 0.7 ? 'flex' : 'none' 
+    item.style.display = itemValues[i] < Math.abs(zIndent) * 0.6 ? 'flex' : 'none' 
   })
 })
 
